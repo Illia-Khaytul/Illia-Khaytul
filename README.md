@@ -10,11 +10,15 @@ Self-taught - Based in Oviedo, Asturias - Open for work - Remote or on-site (Ovi
 ## Projects
 
 **[Inventory Management API](https://github.com/Illia-Khaytul/Inventory-Manager-API):** *(main project, currently in active development)*
+
 Inventory management system implementing JWT authentication and refresh token, role-based access (customers and operators), session management and asynchronous order processing.
+
 Implemented: Authentication and user management API.
+
 In development: Product and order management API, asynchronous order processing.
 
 **[Book Catalogue API](https://github.com/Illia-Khaytul/Book-Catalogue-API):** *(first learning project, finished)*
+
 A complete book management API implementing basic user credential authentication, book filtering and pagination and testing with Testcontainers.
 This is a learning project and the first one I have ever uploaded on GitHub.
 Its main purpose was to let practice using the modern technology stack and using versioning tools like git.
@@ -30,5 +34,7 @@ Its main purpose was to let practice using the modern technology stack and using
 ## Contact and Availability
 
 Open for junior backend positions.
+
 On-site (Oviedo) or remote.
+
 Email: khaytul87@gmail.com
