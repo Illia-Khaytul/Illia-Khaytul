@@ -13,9 +13,9 @@ Self-taught - Based in Oviedo, Asturias - Open for work - Remote or on-site (Ovi
 
 Inventory management system implementing JWT authentication and refresh token, role-based access (customers and operators), session management and asynchronous order processing.
 
-Implemented: Authentication and user management API.
+Implemented: Authentication, user and product management API.
 
-In development: Product and order management API, asynchronous order processing.
+In development: Order management API, asynchronous order processing.
 
 **[Book Catalogue API](https://github.com/Illia-Khaytul/Book-Catalogue-API):** *(first learning project, finished)*
 
