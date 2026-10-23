@@ -22,7 +22,7 @@ In development: Order management API, asynchronous order processing.
 A complete book management API implementing basic user credential authentication, book filtering and pagination and testing with Testcontainers.
 
 This is a learning project and the first one I have ever uploaded on GitHub.
-Its main purpose was to let practice using the modern technology stack and using versioning tools like git.
+Its main purpose was to let me practice using the modern technology stack and using versioning tools like git.
 
 ## Tech Stack
 
